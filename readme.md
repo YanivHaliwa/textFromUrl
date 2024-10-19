@@ -2,8 +2,6 @@
 
 This repository contains a Python script for extracting and cleaning text content from web pages. It's designed to scrape textual information from URLs, removing unnecessary elements and formatting the output for easy reading and analysis.
 
-## Main Script: urlscrap.py
-
 
 ## Key Use Cases
 
@@ -16,6 +14,7 @@ This repository contains a Python script for extracting and cleaning text conten
 7. **Competitive Analysis**: Gather and analyze text content from competitor websites.
 8. **Legal or Compliance Reviews**: Extract text from websites for legal audits or compliance checks.
 
+**for more scripts related cyber and securiy check here: [Cyber Security Scripts section](https://github.com/YanivHaliwa/Linux-Stuff/blob/master/README.md#cyber-security-scripts).**
 
 ### Features:
 
